@@ -10,7 +10,7 @@ I hold a degree in Computer Science and have a strong passion for applying techn
 - **Machine Learning**
 
 ## 🚀 Featured Project
-### [Analysis Method of Barbell Motion in Powerlifting Competitions](#)
+### [Analysis Method of Barbell Motion in Powerlifting Competitions](https://github.com/nicoyoung1101/Real-time-barbell-angle-calculation-system-for-bench-press-)
 A project focused on analyzing barbell motion to enhance performance and safety in powerlifting.  
 *Ask me about how CV and ML can empower strength sports!*
 
