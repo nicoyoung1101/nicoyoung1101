@@ -35,13 +35,6 @@ A project focused on analyzing barbell motion to enhance performance and safety 
 - **Deadlift:** 230kg
 - **Squat:** 180kg
 
-## 🌐 Language Lover
-- **Native:** English, Japanese, Chinese
-- **Currently Learning:** Korean, French
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/feed/)
-
 ---
 
 I love combining my passion for sports and technology, and I'm always eager to collaborate or discuss new ideas.  
